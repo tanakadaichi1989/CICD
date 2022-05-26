@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         Text("CICD")
             .font(.largeTitle)
-            .fontWeight(.blackß)
+            .fontWeight(.black)
             .padding()
     }
 }
